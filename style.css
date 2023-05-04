@@ -5,7 +5,7 @@
 
 header  {
     background-color: #0A862D;
-    color: white;
+    color: #013014;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -21,3 +21,26 @@ header  {
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#4F975E,#01364A);
+    color: #013014;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteúdo{
+    width: 35%;
+}
+.escola-título{
+    padding: 24px 0;
+}
+
+
+
